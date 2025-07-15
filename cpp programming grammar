@@ -1,0 +1,5 @@
+/*
+1. std::max, std::min
+if you want to compare two variable(std::max(a, b)), just include <iostream>
+but if you want to comapre more than two variables(std::max({a, b, c, ...})), you have to include <algorithm>
+*/
